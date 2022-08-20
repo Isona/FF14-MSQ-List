@@ -1,9 +1,4 @@
-## Callie's PotD Handbook for Solo Machinists
-
-Hi, this is my handbook for a Machinist to solo Palace of the Dead!
-I've based a lot of this information on my attempts, [Maygi's Handbook](https://docs.google.com/document/d/e/2PACX-1vQpzFuhmSwTXuZSmtnKLNgQ0nRhumCFaB8NvCXFXSjrBHPRT5lXY8jMR4RaCK1aNfcl_G5ph5DNNwfl/pub) and [AngelusDemonus' excellent videos](https://www.youtube.com/watch?v=u09C-EdSgDY)
-
-My goal is to provide a quick reference for each floor set, to quickly remind me (and maybe you) what I can and can't fight as a solo Machinist, what has non-sight aggro mechanics, and which boss is coming up!
+## Spoiler Free FF14 MSQ List
 
 Contents:
 - [Endwalker](#endwalker)
