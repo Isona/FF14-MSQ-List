@@ -137,5 +137,21 @@ Contents:
 - Endwalker - **Dungeon, Trial**
 
 ## Patch 6.1
+- Newfound Adventure
+- Bountiful Ruins
+- Friends for the Road
+- Alzadaal's Legacy - **Dungeon**
+- A Brother's Grief
+- Sharing the Wealth
+- Bridging the Rift
+- Restricted Reading
+- Void Theory
+- A Satrap's Duty
 
 ## Patch 6.2
+- In Search of Azdaja - **Dungeon**
+- Shadowed Remnants
+- Where Everything Begins
+- Groping in the Dark
+- Nowhere to Run
+- \[Redacted\] - **Trial**
